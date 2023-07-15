@@ -6,9 +6,9 @@ function App() {
 	return (
 		<div className="App">
 			<div className='freecodecamp-logo-contenedor'>	
-				<img src={freeCodeCampLogo}
+				<img src={ freeCodeCampLogo }
 				className='freecodecamp-logo'
-				alt='Logode freCodeCamp' />
+				alt='Logo de free Code Camp' />
 			</div>
 			<div className='contenedor-calculadora'>
 			<div className='fila'>
